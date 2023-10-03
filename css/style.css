@@ -1,0 +1,87 @@
+.container-f {
+    height: 720px;
+    width: 100%;
+    background: #f2f2f5;
+}
+
+.main-C {
+    padding-top: 150px;
+}
+
+.p-graph {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 27px;
+    margin-top: -20px;
+}
+
+.log-in{
+    width: 100px;
+    height: 200px;
+    background: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+@media (min-width:1200px) {
+    .left-side {
+        width: 50%;
+        align-items: center;
+    }
+
+}
+
+@media (min-width:992px) {
+    .left-side {
+        width: 50%;
+        padding-right: 30px;
+    }
+
+    .container-f {
+        width: 100%;
+    }
+}
+
+@media (min-width:768px) {
+    .left-side {
+        width: 30%;
+        align-items: start;
+    }
+
+    .container-f {
+        width: 100%;
+    }
+} */
